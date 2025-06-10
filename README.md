@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samman-pali&label=Profile%20views&color=0e75b6&style=flat" alt="samman-pali" /> </p>
 
-- 🔭 I’m currently working on [Conference Travel Emissions Tool (CTET)](https://co2indexanu.wixsite.com/travel-emission-tool)
-
-- 🌱 I’m currently learning **Django-React Framework**
-
 <h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samman-palihapitiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samman-palihapitiya" height="30" width="40" /></a>
